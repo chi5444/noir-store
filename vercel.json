@@ -3,5 +3,10 @@
     { "source": "/dashboard.html", "destination": "/public/dashboard.html" },
     { "source": "/checkout.html", "destination": "/public/checkout.html" },
     { "source": "/", "destination": "/public/index.html" }
+  ],
+  "routes": [
+    { "src": "/dashboard.html", "dest": "/public/dashboard.html" },
+    { "src": "/checkout.html", "dest": "/public/checkout.html" },
+    { "src": "/", "dest": "/public/index.html" }
   ]
 }
