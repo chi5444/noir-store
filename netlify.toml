@@ -1,0 +1,5 @@
+[build]
+  publish = "public"
+  ignore = "exit 0"
+
+[plugins]
